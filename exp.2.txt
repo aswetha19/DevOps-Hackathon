@@ -1,0 +1,6 @@
+Name       : P.S.L Aswetha
+
+Course     : Bsc-Data Science
+
+One thing I learned form GitHub:
+                 I learned how to create repositories, develop and showcase my work to other using GitHub. 
